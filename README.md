@@ -44,6 +44,8 @@ node server.js
 Estando en la carpeta raiz:
 cd gyt
 ionic serve
+# EP 2.3:
+La base de datos se definió utilizando archivos JSON. Utilizaremos MongoDB como nuestra herramienta de base de datos debido a su compatibilidad nativa con el formato JSON, lo que facilita la integración y el manejo de los datos.
 
 ## Equipo
 
